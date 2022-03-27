@@ -156,5 +156,5 @@ class ApiTester:
         return response.text
 
 
-if __name__ == "__main__":
-    fire.Fire(ApiTester)
+# if __name__ == "__main__":
+#     ApiTester
