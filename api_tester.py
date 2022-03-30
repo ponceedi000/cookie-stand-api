@@ -1,9 +1,9 @@
-import fire
+# import fire
 import requests
 
 # NOTE: Adjust these settings as needed
 API_HOST = "http://localhost:8000"
-RESOURCE_URI = "things"
+RESOURCE_URI = "cookie_stands"
 USERNAME = "admin"
 PASSWORD = "admin"
 
@@ -156,5 +156,5 @@ class ApiTester:
         return response.text
 
 
-if __name__ == "__main__":
-    fire.Fire(ApiTester)
+# if __name__ == "__main__":
+#     ApiTester
