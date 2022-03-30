@@ -1,11 +1,11 @@
-# Lab: 33 - Authentication & Production Server
+# Lab: 34 - Back End Deployment
 
 **Authors**: Ediberto Ponce
 **Version**: 1.0.0
 **PR**: https://github.com/ponceedi000/cookie-stand-api/pull/1
 
 ## Overview
-**It’s time to deploy! First steps are to make sure my Application is able to run well in a remote environment. Once i'm confident that my Application is *deployable` then time to research deployment options.**
+**It’s time to deploy! First steps are to make sure my Application is able to run well in a remote environment. Once i'm confident that my Application is *deployable* then I will deploy to AWS EC2!
 
 
 ## Features
